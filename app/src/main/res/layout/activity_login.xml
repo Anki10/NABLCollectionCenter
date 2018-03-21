@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="#1F667E"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+
+    <com.nablcollectioncenter.views.CustomEditText
+        android:id="@+id/login_userName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/line_color"
+        android:hint="@string/username"
+        android:padding="5dp"
+        android:layout_margin="10dp"
+        android:textColor="@color/edittextColor"
+        android:textColorHint="@color/white" />
+
+    <com.nablcollectioncenter.views.CustomEditText
+        android:id="@+id/login_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/line_color"
+        android:hint="@string/password"
+        android:padding="5dp"
+        android:layout_margin="10dp"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/edittextColor"
+        android:textColorHint="@color/white" />
+
+
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:background="@color/login_btn"
+        android:layout_marginTop="50dp"
+        android:text="LOGIN" />
+
+</LinearLayout>

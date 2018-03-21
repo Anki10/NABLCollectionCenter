@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#11C5BC</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="edittextColor">#cccccc</color>
+    <color name="black">#000000</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="login_btn">#FFD810</color>
+
+    <color name="bag_color">#D4D8DC</color>
+
+    <color name="toolbar_color">#11C5BC</color>
+    <color name="textHeadColor">#414141</color>
+    <color name="colorPrimaryTransparent">#335f50e1</color>
+    <color name="login_background">#005a8b</color>
+    <color name="disabled_color">#787878</color>
+
+</resources>

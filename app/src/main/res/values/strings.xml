@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">NABL Collection Center</string>
+
+    <string name="username">Email</string>
+    <string name="password">Password</string>
+
+    <string name="error_occured">Something went wrong. Please try again.</string>
+
+
+    <string-array name="assessement_service">
+        <item>General</item>
+        <item>Accommodation and Environmental Conditions</item>
+        <item>Equipment</item>
+        <item>Material</item>
+        <item>Staffing</item>
+        <item>Documentation</item>
+        <item>Health and Safety</item>
+        <item>Safety and Waste Disposal</item>
+        <item>Transport of Pathology Specimens</item>
+        <item>Packaging</item>
+        <item>Complaints / Feedback</item>
+
+    </string-array>
+
+    <string-array name="General">
+        <item>Type of the collection centre/source of sample</item>
+        <item>Size of premises</item>
+        <item>Average Number of patients per day</item>
+        <item>Does it meet the requirement of the workload?</item>
+        <item>Reception and waiting area separate from collection area</item>
+        <item>Hand washing facility</item>
+        <item>Clean toilet facility on site </item>
+        <item>Provision of privacy during collections</item>
+        <item>Hours of operation have been displayed</item>
+
+    </string-array>
+
+
+    <string-array name="General_Option1">
+        <item>Owned</item>
+        <item>Managed</item>
+        <item>Franchise</item>
+        <item>Any other source of sample collection which is not categorized above</item>
+    </string-array>
+
+    <string-array name="General_Option2">
+        <item>Owned</item>
+        <item>Managed</item>
+        <item>Franchise</item>
+        <item>Any other source of sample collection which is not categorized above</item>
+    </string-array>
+
+    <string-array name="General_Option3">
+        <item>Owned</item>
+        <item>Managed</item>
+        <item>Franchise</item>
+        <item>Any other source of sample collection which is not categorized above</item>
+    </string-array>
+    <string-array name="General_Option4">
+        <item>Owned</item>
+        <item>Managed</item>
+        <item>Franchise</item>
+        <item>Any other source of sample collection which is not categorized above</item>
+    </string-array>
+    <string-array name="General_Option5">
+        <item>Owned</item>
+        <item>Managed</item>
+        <item>Franchise</item>
+        <item>Any other source of sample collection which is not categorized above</item>
+    </string-array>
+    <string-array name="General_Option6">
+        <item>Owned</item>
+        <item>Managed</item>
+        <item>Franchise</item>
+        <item>Any other source of sample collection which is not categorized above</item>
+    </string-array>
+    <string-array name="General_Option7">
+        <item>Owned</item>
+        <item>Managed</item>
+        <item>Franchise</item>
+        <item>Any other source of sample collection which is not categorized above</item>
+    </string-array>
+    <string-array name="General_Option8">
+        <item>Owned</item>
+        <item>Managed</item>
+        <item>Franchise</item>
+        <item>Any other source of sample collection which is not categorized above</item>
+    </string-array>
+    <string-array name="General_Option9">
+        <item>Owned</item>
+        <item>Managed</item>
+        <item>Franchise</item>
+        <item>Any other source of sample collection which is not categorized above</item>
+    </string-array>
+
+    <string-array name="General_Option10">
+        <item>Owned</item>
+        <item>Managed</item>
+        <item>Franchise</item>
+        <item>Any other source of sample collection which is not categorized above</item>
+    </string-array>
+
+    <string-array name="Accommodation_and_Environmental_Conditions">
+        <item>Is it adequately lit and clean</item>
+        <item>Is the humidity and temperature suitable</item>
+        <item>Are cleaning policies available</item>
+        <item>Is it adequately ventilated and prevented from dust</item>
+        <item>Does it have adequate space and separation to avoid cross contamination</item>
+        <item>Is the house keeping adequate</item>
+
+    </string-array>
+
+    <string-array name="Equipment">
+        <item>Refrigerator (temp. record; calibrated temp. recording device)</item>
+        <item>Centrifuge (Calibration records)</item>
+        <item>Proper storage of supplies</item>
+        <item>Suitable chair and/ or couch for collection of blood, etc.</item>
+        <item>Basic first-aid material</item>
+        <item>Telephone</item>
+        <item>Air conditioning, if applicable </item>
+        <item>Power backup for equipment</item>
+        <item>Hours of operation have been displayed</item>
+    </string-array>
+
+</resources>
