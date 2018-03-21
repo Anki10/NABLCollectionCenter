@@ -16,5 +16,9 @@ public class QuestionsActivity extends AppCompatActivity {
         Categories category = getIntent().getParcelableExtra("Question");
 
         category.getList();
+
+
+
+
     }
 }
